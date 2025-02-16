@@ -3,3 +3,5 @@ Data Analysis for [US Household Income dataset](https://www.kaggle.com/datasets/
 - Data Cleaning (including: Remove Duplicate, Standardization of `State_Name` & `Type`, Null Values Handling for `Place`, etc.)
 - Exploratory Data Analysis
 - Automated Data Cleaning (create stored prodecures & events to enable automated data cleaning for this dataset)
+
+For more details about this project, check my post [here](https://xiaogarbageemail.wixsite.com/bryanxiaoportfolio/post/us-household-income-project)!
